@@ -1,0 +1,435 @@
+
+     h1{
+    font-size: 40px;
+            }
+
+    h4{
+        font-size: 65px;
+        color: white;
+        display: block;
+            }
+
+    h5{
+        font-size: 50px;
+        color: white;
+            }
+    .txt{
+        left: 0%;
+        float: left;
+        width: 1px;
+        top: 0%;
+        font-size: 42px;
+        color: black;
+        font-family: comic sans ms; 
+        width: 1em;
+        line-height:38px;
+        position: absolute;
+        z-index: 1;
+        color: white;
+            }
+    .txt_two{
+        top: 0%;
+        left:40%;
+        font-size: 42px;
+        color: black;
+        font-family: comic sans ms; 
+        line-height:38px;
+        width: 1em;
+        position: absolute;
+        z-index: 1;
+        color: white;
+            }
+    .txt3{
+        top: 0%;
+        right: 0%;
+        float: right;
+        font-size: 42px;
+        color: black;
+        font-family: comic sans ms; 
+        width: 1em;
+        line-height:38px;
+        position: absolute;
+        z-index: 1;
+        color: white;
+            }
+    .kod{
+        position: absolute;
+        top: 0px;
+        float: left;
+        left: 0%;
+        width: 100%;
+        height: 700px;
+        z-index: 0;
+    }
+    input {
+        margin: 8px;
+        width: 130px;
+            }   
+    .wrapper{
+        width: 100%;
+            }
+    #main_font{
+        width: 100%;
+        height:2271px;
+        top:645px;
+        float: left;
+        left: 0%;
+        z-index: 0;
+        opacity: 0.5;
+        position: absolute;
+            }
+    #main_font_new{
+        display: none;
+        top: 414px;
+        height: 1960px;
+        width: 100%;
+        float: left;
+        left: 0%;
+        z-index: 0;
+        opacity: 0.5;
+        position: absolute;
+            }
+    #main_font_n2{
+        display: none;
+        top: 0px;
+        height: 2600px;
+        width: 100%;
+        float: left;
+        left: 0%;
+        z-index: 0;
+        opacity: 0.5;
+        position: absolute;
+            }
+    #main_font_min{
+        display: none;
+        top: 0px;
+        height: 1530px;
+        width: 100%;
+        float: left;
+        left: 0%;
+        z-index: 0;
+        opacity: 0.5;
+        position: absolute;
+            }
+    #menu_font{
+        float: left;
+        left: 0%;
+        width: 100%;
+        top: 0%;
+        background:#233133;        
+        height: 63px;
+        z-index: 3;
+        position: fixed;
+        font-size: 98%;
+            }
+    .menu{
+        position: fixed;
+        padding-top: 1.3%;
+        z-index: 3;
+            }
+    #header_font{
+        position: absolute;
+        width:100%;
+        height: 672px;
+        min-height: 200px;
+        float: left;
+        top: -27px;
+        left: 0%;
+            }
+    #header_m{
+        margin-top: 170px;
+            }
+    #header_title{
+        margin-top: 120px;
+        position: absolute;
+        width:95%;
+        left: 1%;
+            }
+    #header_pot_title{
+        margin-top: 220px;
+        position: absolute;
+        width:70%;
+        left: 13%;
+            }
+    #button_header{
+        margin-top: 460px;
+        width: 40%;
+        position: absolute;
+        float: left;
+        left: 28%;
+            }
+    #left_aside{
+        padding-bottom: 5.5%;
+
+             }
+    #l_katalog{
+        position: absolute;
+        top: 652px;
+        width: 15%;
+        float: left;
+        left: 0%;
+        z-index: 2;
+            }
+    #l_video{
+        position: absolute;
+        top: 692px;
+        width: 15%;
+        float: left;
+        left: 0%;
+        z-index: 2;
+            }
+    #l_character{
+        position: absolute;
+        top: 732px;
+        width: 15%;
+        float: left;
+        left: 0%;
+        z-index: 2;
+            }
+    #l_reviews{
+        position: absolute;
+        top: 772px;
+        width: 15%;
+        float: left;
+        left: 0%;
+        z-index: 2;
+            }
+    #right-aside {
+        top: 653px;
+        padding-top: 0.5%;
+        color: #ffffff;
+        position: absolute;
+        float: right;
+        right: 0%;
+        width: 180px;
+        background-color:#233133;
+        line-height: 0.125;
+        text-align:center;
+        z-index: 2;
+            }
+   #character_photo{
+        width: 35%;
+        position: absolute;
+        top: 805px;
+        float: left;
+        left: 15%;
+        z-index: 2;
+            }
+    .title_character{
+        width: 80%;
+        top: 637px;
+        float: left;
+        left: 12%;
+        z-index: 2;
+        position: absolute;
+        color: #000;
+            }
+    .character_description{
+        width: 28%;
+        top: 773px;
+        float:left;
+        left: 53%;
+        position: absolute;
+        color: #000;
+        z-index: 2;
+            }
+    .video_text{
+        width:80%;
+        position: absolute;
+        left: 10%;
+        top: 1425px;
+        z-index: 1;
+            }
+    #video_figure{
+        height: 547.82px;
+        width: 68%;
+            }             
+    #video{
+        width: 80%;
+        height: inherit;
+        position: absolute;
+        left: 10%;
+        top: 1579px;
+        z-index: 1;
+            }
+    .katalog_text{
+        width:80%;
+        position: absolute;
+        left: 10%;
+        top: 2150px;
+        z-index: 1;
+            } 
+    #standart{
+        width: 25%;
+        position: absolute;
+        top: 2352.6px;
+        float: left;
+        left: 22%;
+        z-index: 2;
+            }
+    #standart_header{
+        width: 25%;
+        position: absolute;
+        top:170px;
+        float: left;
+        left: 18%;
+        z-index: 2;
+            }
+   #premium{
+        width: 25%;
+        position: absolute;
+        top: 2352.6px;
+        float: left;
+        left: 57%;
+        z-index: 2;
+            }
+   #premium_header{
+        width: 25%;
+        position: absolute;
+        top: 170px;
+        float: left;
+        right: 18%;
+        z-index: 2;
+            }
+   #button_pr_h{
+        width: 23%;
+        position: absolute;
+        top: 350px;
+        float: left;
+        right: 19%;
+        z-index: 2;
+            }
+   #button{
+        width: 23%;
+        position: absolute;
+        top: 2756px;
+        float: left;
+        left: 23.5%;
+        z-index: 2;
+            }
+   #button_st_h{
+        width: 23%;
+        position: absolute;
+        top: 350px;
+        float: left;
+        left: 19%;
+        z-index: 2;
+            }
+    #button_two{
+        width: 23%;
+        position: absolute;
+        top: 2756px;
+        float: left;
+        left: 58%;
+        z-index: 2;
+            }
+    #footer_font{
+        background-color:#233133;
+        width: 100%;
+        height: 174.765px;
+        position: absolute;
+        top: 2916px;
+        float: left;
+        left: 0%;
+            }
+    .footer_title{
+        position: absolute;        
+        width:60%;
+        float: left;
+        left: 40%;
+        top: 2883px;
+        z-index: 2;
+            } 
+    .footer_text{
+        position: absolute;
+        width: 98%;
+        height: 6px;
+        left: 1%;
+        top: 3018px;
+        z-index: 2;
+            } 
+    .footer_g{
+        position: absolute;
+        width:5%;
+        left: 28%;
+        top: 2971px;
+        z-index: 2;
+            }
+    .footer_m{
+        position: absolute;
+        width:5%;
+        left: 33%;
+        top: 2971px;
+        z-index: 2;
+            }
+    .footer_v{
+        position: absolute;
+        width:5%;
+        left: 38%;
+        top: 2971px;
+        z-index: 2;
+            }          
+    .footer_f{
+        position: absolute;
+        width:5%;
+        left: 43%;
+        top: 2971px;
+        z-index: 2;
+            }
+    .footer_i{
+        position: absolute;
+        width:5%;
+        left: 48%;
+        top: 2971px;
+        z-index: 2;
+            }
+    .footer_tw{
+        position: absolute;
+        width:5%;
+        left: 53%;
+        top: 2971px;
+        z-index: 2;
+            }
+    .footer_tg{
+        position: absolute;
+        width:5%;
+        left: 58%;
+        top: 2971px;
+        z-index: 2;
+            }
+    .footer_o{
+        position: absolute;
+        width:5%;
+        left: 63%;
+        top: 2971px;
+        z-index: 2;
+            }
+    .video_header{
+        width:auto;
+        position: fixed;
+        float: left;
+        left: 85%;
+        right: 0%;
+        top: 20px;
+            }
+    .character_header{
+        width: auto;
+        position: fixed;
+        float: left;
+        left: 36%;
+        top: 20px;
+            }
+    .katalog_header{
+        width: auto;
+        position: fixed;
+        float: left;
+        left: 7%;
+        top: 19px;
+            }
+    #gotop {
+        top: 86%;
+        left: 2%;
+        position: fixed;
+        opacity: 0.6;
+        z-index: 3
+            }
